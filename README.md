@@ -73,4 +73,4 @@ passport.js >> local strategy is defined for passport authorization
 
 key.js >> MongoDb URI is defined
 
-MongoURI: 'mongodb+srv://Nouman:Nomiking5482@cluster0-asdku.mongodb.net/test?retryWrites=true&w=majority'
+MongoURI: 'mongodb+srv://Nouman:<password>@cluster0-asdku.mongodb.net/test?retryWrites=true&w=majority'
