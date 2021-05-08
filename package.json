@@ -15,7 +15,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-handlebars": "^3.1.0",
     "express-session": "^1.17.0",
-    "handlebars": "^4.4.5",
+    "handlebars": "^4.7.7",
     "hbs": "^4.0.6",
     "jquery": "^3.4.1",
     "mongo": "^0.1.0",
